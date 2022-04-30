@@ -74,7 +74,7 @@ namespace svg2vsdx_gui
 
         private void About1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            MessageBox.Show("GUI作者：Kinglonh");
+            MessageBox.Show("GUI作者：Kinglonh\nGithub地址：https://github.com/kinglonh/svg2vsdx_gui");
         }
     }
 }
