@@ -5,3 +5,4 @@
 运行环境：.Net Framework 4.7.2<br>
 编译环境：Visual Studio 2022<br>
 感谢：https://www.cnblogs.com/hz-blog/p/Convert_SVG_to_Visio_VSD_Dynamic_Com_By_Reflect.html
+下载地址：[svg2vsdx_gui.exe](https://github.com/kinglonh/svg2vsdx_gui/releases/download/v1.0.0/svg2vsdx_gui.exe)
